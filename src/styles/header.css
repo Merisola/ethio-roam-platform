@@ -1,0 +1,23 @@
+/* src/styles/header.css */
+.header {
+  background-color: #007bff;
+  padding: 20px;
+}
+
+.header .logo {
+  font-size: 24px;
+  font-weight: bold;
+  position: absolute;
+  top: 1px;
+  left: -10000px;
+}
+
+.header .nav-link {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.header .nav-link:hover {
+  background-color: #0056b3;
+}
